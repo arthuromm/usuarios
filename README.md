@@ -19,7 +19,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 Clona el repositorio:
 
 
-git clone https://github.com/tuusuario/tu-repositorio.git
+git clone [https://github.com/tuusuario/tu-repositorio.git](https://github.com/arthuromm/ventas.git)
 Navega al directorio del proyecto:
 
 
